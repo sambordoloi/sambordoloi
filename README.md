@@ -10,10 +10,10 @@ I have over 4 years of experince in Devops tools.Currently i am working in a sta
 
 Skills & Technologies:
 
-1.PostgreSQL, Redis, MongoDB, ElasticSearch
-2.Apache Kafka, RabbitMQ, Apache Airflow
-3.Kubernetes, Docker
-4.Nginx, HAProxy, Apache
-5.AWS, Azure, Other cloud platforms
-6.Linux, Redhat
-7.Build automation, CI/CD
+1.PostgreSQL, Redis, MongoDB, ElasticSearch <br>
+2.Apache Kafka, RabbitMQ, Apache Airflow <br>
+3.Kubernetes, Docker <br>
+4.Nginx, HAProxy, Apache <br>
+5.AWS, Azure, Other cloud platforms <br>
+6.Linux, Redhat <br>
+7.Build automation, CI/CD <br>
