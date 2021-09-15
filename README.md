@@ -4,7 +4,7 @@ My name is Samyajyoti and I am a Devops Engineer,Open-Source enthusiastic.
 
 
 
-You can find me on <a href="https://www.linkedin.com/in/samyajyoti-bordoloi-93513a129/">Linkdin</>
+You can find me on <a href="https://www.linkedin.com/in/samyajyoti-bordoloi-93513a129/">Linkdin
 
 
 - 👀 I’m interested in ...
