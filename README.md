@@ -8,13 +8,12 @@ You can find me on <a href="https://www.linkedin.com/in/samyajyoti-bordoloi-9351
 
 I have over 4 years of experince in Devops tools.Currently i am working in a startup Claym Media & Tech Pvt Ltd.
 
-<span class="dot"></span>Skills & Technologies:
-  PostgreSQL, Redis, MongoDB, ElasticSearch
-Apache Kafka, RabbitMQ, Apache Airflow
-Kubernetes, Docker
-MQTT, XMPP, WebRTC
-Blockchain, Ethereum
-Nginx, HAProxy, Apache
-Digital Ocean, AWS, Azure
-Linux, macOS
-Build automation, CI/CD
+Skills & Technologies:
+
+1.PostgreSQL, Redis, MongoDB, ElasticSearch
+2.Apache Kafka, RabbitMQ, Apache Airflow
+3.Kubernetes, Docker
+4.Nginx, HAProxy, Apache
+5.AWS, Azure, Other cloud platforms
+6.Linux, Redhat
+7.Build automation, CI/CD
