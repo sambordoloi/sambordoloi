@@ -4,15 +4,17 @@ My name is Samyajyoti and I am a Devops Engineer,Open-Source enthusiastic.
 
 
 
-You can find me on <a href="https://www.linkedin.com/in/samyajyoti-bordoloi-93513a129/">Linkdin
+You can find me on <a href="https://www.linkedin.com/in/samyajyoti-bordoloi-93513a129/">Linkedin 
 
+I have over 4 years of experince in Devops tools.Currently i am working in a startup Claym Media & Tech Pvt Ltd.
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-sambordoloi/sambordoloi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<span class="dot"></span>Skills & Technologies:
+  PostgreSQL, Redis, MongoDB, ElasticSearch
+Apache Kafka, RabbitMQ, Apache Airflow
+Kubernetes, Docker
+MQTT, XMPP, WebRTC
+Blockchain, Ethereum
+Nginx, HAProxy, Apache
+Digital Ocean, AWS, Azure
+Linux, macOS
+Build automation, CI/CD
