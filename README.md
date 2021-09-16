@@ -11,7 +11,7 @@ I have over 4 years of experince in Devops tools.Currently i am working in a sta
 Area of Expertise:
 
 1. AWS,Azure
-2. Docker,Nginx <br>
+2. Docker,ECS,Nginx <br>
 3. Python Application deployment in Docker and Kubernetes <br>
 4. PostgreSQL, Mysql ,Redis, <br>
 5. ELK stack (Elasticseach ,Kibana), LAMP stack <br>
